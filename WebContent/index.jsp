@@ -8,6 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Server Time: <%=new Date() %>
+<h3>Server Time:</h3> <%=new Date() %>
 </body>
 </html>
